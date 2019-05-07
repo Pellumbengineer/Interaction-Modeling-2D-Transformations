@@ -1,7 +1,5 @@
 # Interaction-Modeling-2D-Transformations
 
-# Interaction-Modeling-2D-Transformations
-
 1. Objective
   There are three main objectives of this homework:
     1. Building interactive applications
