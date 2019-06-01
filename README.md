@@ -2,6 +2,7 @@
 
 1. Objective
   There are three main objectives of this homework:
+  
     i.  Building interactive applications
     ii. Modeling simple geometric objects
     iii.Implementing 2D transformations
