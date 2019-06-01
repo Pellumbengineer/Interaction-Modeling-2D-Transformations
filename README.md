@@ -2,9 +2,9 @@
 
 1. Objective
   There are three main objectives of this homework:
-    1. Building interactive applications
-    2. Modeling simple geometric objects
-    3. Implementing 2D transformations
+    i.  Building interactive applications
+    ii. Modeling simple geometric objects
+    iii.Implementing 2D transformations
     
 ## Modeling
   I modeled the geometry shown in Figure. It contains an ellipse centered at the origin and 4 square
